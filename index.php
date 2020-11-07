@@ -28,7 +28,7 @@
 					}
 				});
 			},
-			minLenght:2,
+			minLenght:1,
 			select: function(event,ui){
 				alert("Selecciono :"+ ui.item.label);
 			}
