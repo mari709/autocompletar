@@ -1,5 +1,3 @@
-
-
 <!doctype html>
 <head>
 	<title>Autocomplete</title>
@@ -8,7 +6,7 @@
 	<script type="text/javascript" src="js/jquery-ui.js"></script>
 </head>
 <body>
-<p>AUTOCOMPLETAR INPUT</p>
+	<p>AUTOCOMPLETAR INPUT</p>
 	<label for ="nombre">Nombre</label>
 	<input type="text" id="nombre">
 
@@ -37,6 +35,5 @@
 
 		});
 	</script>
-
 </body>
 </html>
